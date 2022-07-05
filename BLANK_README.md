@@ -30,26 +30,24 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://dev.traxile.com/wp-content/uploads/2021/10/traxile-logo.png" alt="Logo">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">TraXile</h3>
 
   <p align="center">
-    project_description
+    TraXile is a tool for two main purposes:
+    <br>
+      1) Just generate some interesting statistics about your Poe gaming</li><br>
+      2) Offer features to help track your activities and farming tactics<br>
+    </ul>
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://github.com/dermow/TraXile/issues">Report Bug</a>
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/dermow/TraXile/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
